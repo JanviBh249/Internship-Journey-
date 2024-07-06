@@ -33,11 +33,11 @@ Welcome to the detailed weekly report of my summer internship project on data an
 - Implemented and evaluated linear regression models.
 - Discussed strategies for improving model accuracy and robustness.
 
-📝 Day 6: Importance of Interactive Dashboards
+📝 Day 6: Creation of Interactive Dashboards
 - Explored the significance of interactive dashboards in data communication.
 - Created interactive visualizations using Tableau to present key insights.
 
-📝 Day 7: Tools and Technologies Used for Dashboards
+📝 Day 7: Enhancing Featutres of Dashboards
 - Developed a Tableau dashboard to visualize sales trends and customer behavior.
 - Integrated dynamic features for user interaction and data exploration.
 
@@ -67,8 +67,7 @@ Welcome to the detailed weekly report of my summer internship project on data an
 - Detailed methodology for preprocessing time series data.
 - Optimized LSTM architecture and trained model for accurate forecasting.
 
-📝 Day 7: Weekly Summary and Next Week's Plan
-- Recap of accomplishments and learnings from the week.
+📝 Day 7: Learning about next week's topics
 - Outlined plan for upcoming tasks on customer segmentation and clustering.
 
 ## 📅 Week 3: Customer Segmentation and Clustering Analysis
@@ -97,7 +96,7 @@ Welcome to the detailed weekly report of my summer internship project on data an
 - Detailed methodology for implementing DBSCAN.
 - Interpreted clustering results to derive actionable insights for marketing strategies.
 
-📝 Day 7: Weekly Summary and Next Week's Plan
+📝 Day 7: 
 - Summarized outcomes and conclusions from customer segmentation and clustering analysis.
 - Planned upcoming tasks focusing on deep learning techniques for anomaly detection.
 
