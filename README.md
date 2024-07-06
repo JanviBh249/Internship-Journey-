@@ -136,7 +136,7 @@ Welcome to the detailed weekly report of my summer internship project on data an
 
 ## 🎯 Conclusion
 
-This internship at CodTechIT Solutions has been a rewarding experience in exploring various aspects of data analytics and machine learning. Through hands-on projects, I've gained valuable insights into real-world applications of statistical analysis, predictive modeling, and deep learning. The tasks undertaken have not only enhanced my technical skills but also sharpened my ability to interpret data and derive actionable insights. I look forward to applying these learnings in my future academic and professional endeavors.
+This internship at CodTechIT Solutions has been a rewarding experience in exploring various aspects of data analytics and machine learning. Through hands-on projects, I've gained valuable insights into real-world applications of statistical analysis, predictive modeling. The tasks undertaken have enhanced my ability to interpret data and derive actionable insights. I look forward to applying these learnings in my future academic and professional endeavors.
 
 ## 📂 Work Folder
 
