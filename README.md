@@ -1,8 +1,4 @@
-
-![Watch the video](https://drive.google.com/uc?export=download&id=1BSOSwECnST3_xE0WHRMl0dD7qHD_5T5O)
-
-
-##    Summer Internship Report: Data Analytics 📊
+##    Summer Internship 22AIML004: Data Analytics 📊
 
 ##   Overview
 
@@ -140,6 +136,6 @@ This internship at CodTechIT Solutions has been a rewarding experience in explor
 
 Explore the detailed project work in the [Work Folder](https://drive.google.com/drive/folders/1W2USUlDPN6y63pxLANOoKD4gAeb5VE7w?usp=sharing).
 
-## By Janvi Bhanushali
+## - Janvi Bhanushali
 
 ## Thankyou for Reading :)
