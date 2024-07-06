@@ -140,6 +140,6 @@ This internship at CodTechIT Solutions has been a rewarding experience in explor
 
 ## 📂 Work Folder
 
-Explore the detailed project work in the [Work Folder](https://github.com/janvi22/summer-internship-data-analytics).
+Explore the detailed project work in the [Work Folder](https://drive.google.com/drive/folders/1W2USUlDPN6y63pxLANOoKD4gAeb5VE7w?usp=sharing).
 
 ![Footer Animation](assets/footer_animation.gif)
