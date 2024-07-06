@@ -6,7 +6,7 @@
 
 Welcome to the detailed weekly report of my summer internship project on data analytics at CodTechIT Solutions. This repository documents my journey through various tasks including exploratory data analysis, predictive modeling, time series forecasting, customer segmentation, clustering analysis, and anomaly detection.
 
-## 📁 Repository Structure
+## 📁 Structure
 
 - `Week1/`: Exploratory Data Analysis and Predictive Modeling 
 - `Week2/`: Advanced Project Features and Time Series Forecasting 
