@@ -1,4 +1,4 @@
-![CodTechIT Solutions](assets/codtechit_logo.gif)
+
 
 #    Summer Internship Report: Data Analytics 📊
 
@@ -6,13 +6,10 @@
 
 Welcome to the detailed weekly report of my summer internship project on data analytics at CodTechIT Solutions. This repository documents my journey through various tasks including exploratory data analysis, predictive modeling, time series forecasting, customer segmentation, clustering analysis, and anomaly detection.
 
-## 📁 Structure
+## 📁 Weekly timeline
 
-- `Week1/`: Exploratory Data Analysis and Predictive Modeling 
-- `Week2/`: Advanced Project Features and Time Series Forecasting 
-- `Week3/`: Customer Segmentation and Clustering Analysis 
-- `Week4/`: Basic Deep Learning for Anomaly Detection 
-- `Conclusion.md`: Final thoughts and reflections on the internship experience 
+![Weekly Timeline](https://drive.google.com/uc?id=1y6dvb01qQdrzuT0rW21HbXys8LtyoeBQ)
+
 
 ## 📅 Week 1: Exploratory Data Analysis and Predictive Modeling
 
