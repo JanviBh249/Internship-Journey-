@@ -1,6 +1,8 @@
 
+![Watch the video](https://drive.google.com/uc?export=download&id=1BSOSwECnST3_xE0WHRMl0dD7qHD_5T5O)
 
-#    Summer Internship Report: Data Analytics 📊
+
+##    Summer Internship Report: Data Analytics 📊
 
 ##   Overview
 
@@ -96,11 +98,11 @@ Welcome to the detailed weekly report of my summer internship project on data an
 - Detailed methodology for implementing DBSCAN.
 - Interpreted clustering results to derive actionable insights for marketing strategies.
 
-📝 Day 7: 
+📝 Day 7: Summarizing the Concepts learnt
 - Summarized outcomes and conclusions from customer segmentation and clustering analysis.
 - Planned upcoming tasks focusing on deep learning techniques for anomaly detection.
 
-## 📅 Week 4: Basic Deep Learning for Anomaly Detection
+## 📅 Week 4: Basic Techniques for Anomaly Detection
 
 📝 Day 1: Importance of NLP Techniques
 - Explored the significance of NLP techniques in text mining and sentiment analysis.
@@ -138,4 +140,6 @@ This internship at CodTechIT Solutions has been a rewarding experience in explor
 
 Explore the detailed project work in the [Work Folder](https://drive.google.com/drive/folders/1W2USUlDPN6y63pxLANOoKD4gAeb5VE7w?usp=sharing).
 
-![Footer Animation](assets/footer_animation.gif)
+## By Janvi Bhanushali
+
+## Thankyou for Reading :)
